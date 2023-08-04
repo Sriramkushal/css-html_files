@@ -1,0 +1,122 @@
+.main{
+	height: 800px;
+	width: 1200px;
+	background: whitesmoke;
+	padding: 50px;
+}
+
+*{
+	box-sizing: border-box;
+}
+.top_div{
+	height: 30px;
+	width: 900px;
+	background: white;
+	padding-left: 220px;
+	padding-top: 4px;
+	margin: 20px;
+	 
+}
+
+form{
+	display: block;
+}
+
+.left_div{
+	height: 550px;
+	width: 300px;
+	background: black;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.left_top{
+	height: 200px;
+	width: 300px;
+	background: white;
+	float: left;
+	text-align: center;
+	padding: 10px;
+	/*background: lightgreen;
+}*/}
+.left_bottom{
+	height: 350px;
+	width: 300px;
+	background: white;
+	float: left;
+	text-align: left;
+	padding: 10px;
+	font-size: 26px;
+}
+
+.b5{
+	background: red;
+}
+span{
+	font-size: 10px;
+	text-transform: lowercase;
+}
+
+progress{
+	width:600px;
+
+}
+
+.div221{
+	background-color: white;
+	height: 280px;
+	width: 600px;
+	
+	/*margin: 10px;
+	border-radius: 10px;
+	text-align: center;*/
+}
+
+
+.lablestyle{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.inputstyle{
+	width: 400px;
+	float: right;
+	margin: 10px;
+
+}
+
+.twitter{
+	color:darkblue;
+}
+#left_text{
+	font-size: 10px;
+	text-align: right;
+}
+
+.right_top{
+	height: 280px;
+	width: 700px;
+	background: white;
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+}
+
+.right_bottom{
+	height: 270px;
+	width: 700px;
+	background: white;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+
+}
+button{
+	background-color: blue;
+  border: none;
+  color: white;
+  
+  font-size: 16px;
+  cursor: pointer;
+}

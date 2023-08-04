@@ -1,0 +1,36 @@
+.a{
+	background-color: powderblue;
+	height: 50px;
+	line-height: 50px;
+}
+
+
+
+.a a{
+	text-decoration: none;
+	padding-right: 30px;
+}
+
+.c{
+	font-family: papyrus;
+	font-size: 18px;
+	background-color: whitesmoke;
+}
+
+.d{
+	font-size: 18px;
+	font-family: Courier New;
+	padding-left: 250px;
+	background-color: whitesmoke;
+
+}
+.e{
+	text-align:center ;
+	background-color: grey;
+	height: 100px;
+	line-height: 100px;
+}
+
+.h{
+	text-align: right;
+}

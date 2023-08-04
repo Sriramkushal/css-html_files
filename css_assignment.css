@@ -1,0 +1,73 @@
+.main_div{
+	height:500px;
+	width:1000px;
+	background: black;
+	padding: 70px;
+	box-sizing: border-box;
+}
+
+.first_div{
+	height: 350px;
+	width: 750px;
+	background: whitesmoke;
+/*	padding: 15px;*/
+}
+
+.a{
+	height: 280px;
+	width: 200px;
+	margin: 15px;
+	background: white;
+	border-radius: 20px;
+	float: left;
+	padding: 10px;
+	text-align: center;
+	color: red;
+	font-size: 30px;
+}
+
+span{
+	font-size: 40px;
+	color: black;
+}
+
+.one{
+	font-size: 15px;
+	color: black;
+}
+.b{
+	height: 280px;
+	width: 200px;
+	margin: 15px;
+	background: white;
+	border-radius: 20px;
+	float: left;
+	padding: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: red ;
+}
+
+.c{
+	height: 280px;
+	width: 200px;
+	margin: 15px;
+	background: white;
+	border-radius: 20px;
+	float: right;
+	padding: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: blue;
+}
+p{
+	color: yellow;
+	box-sizing: boeder border-box;
+}
+
+button{
+	color: white;
+	background: blue;
+	border-radius: 40px;
+	padding: 2px;
+}

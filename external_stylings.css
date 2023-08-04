@@ -1,0 +1,43 @@
+.ram{
+	border: 3px solid darkred;
+	background-color: lightgrey;
+	font-size: 100px;
+	text-align: center;
+	font-weight: cursive;
+}
+
+#sri{
+	font-size: 50px;
+	font-family: cursive;
+}
+p{
+	border: 0.2px solid darkred;
+	background-color: lightpink;
+	font-size: 20px;
+	font-family: initial;
+}
+
+*{
+border: 0.2px solid whitesmoke;
+	
+	font-size: 20px;
+	font-family: initial;
+}
+input[type="text"]{
+	color:red;
+}
+img:hover{
+	height: 100px;
+	width: 100px;
+}
+a:hover{
+	color: red;
+	font-size: 100px;
+}
+a:link{
+	color:black;
+}
+a:active{
+	color: orange;
+}
+

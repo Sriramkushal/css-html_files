@@ -1,0 +1,11 @@
+.abc{
+	background-color: skyblue;
+	height: 150px;
+	width: 400px;
+	border: 40px;
+	border-style: solid;
+	border-color: orange;
+	padding: 30px ;
+	margin: 20px;
+
+}
